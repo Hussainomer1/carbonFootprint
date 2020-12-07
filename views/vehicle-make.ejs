@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <p>This is the vehicle make page</p>
+    <form action="/vehicle/model">
+    <select name="make">
+        <option value="select make">select make</option>
+        <% makes.forEach(make => { %>
+        <option value="<%=make.data.id%>"><%=make.data.attributes.name%></option>
+        <% }) %>
+    </select><br>
+    <button>submit</button>
+    </form>
+</body>
+
+</html>
