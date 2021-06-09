@@ -19,7 +19,7 @@ Earth Print lets you actively gauge your impact on the environment and pushes yo
 
 Click the image below to see the prototype of the application!
 
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/linkedin.png" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/hussain-omer-551893203/)
+[<img src="https://raw.githubusercontent.com/hussaino03/Earth-Print/main/Earth Print Logo.png" height="40em" align="center" alt="See Prototype!" title="See Prototype!"/>](https://www.figma.com/proto/KOmGYDBx2YGms8wpNvomse/carbon-calculator-project?node-id=46%3A0&scaling=scale-down&page-id=0%3A1)
 
 
 
